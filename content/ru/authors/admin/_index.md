@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Икромджон Сатторов
+title: Ikromjhon Sattorov 
 
 # Full name (for SEO)
-first_name: Икромджон
-last_name: Сатторов	
+first_name: Ikromjhon
+last_name: Sattorov
 
 # Is this the primary user of the site?
 superuser: true
@@ -116,6 +116,6 @@ awards:
 
 ---
 
-## About Me
+## Обо мне
 
 Меня зовут Икромджон Сатторов, родом из Узбекистана. Сейчас я обучаюсь на втором курсе в РУДН, на направлении Бизнес-информатика. Увлекаюсь конными прогулками, а также изучением современных технологий.
