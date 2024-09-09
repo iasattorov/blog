@@ -1,10 +1,7 @@
 ---
 # Display name
-<<<<<<< HEAD
 title: Ikromjhon Sattorov 
-=======
-title: Ikromjhon Sattorov
->>>>>>> ce1d534705be75dd051979b74882b17ec89a5246
+
 
 # Full name (for SEO)
 first_name: Ikromjhon
@@ -68,11 +65,7 @@ education:
   
 
 
-<<<<<<< HEAD
 # Skills
-=======
-# Навыки
->>>>>>> ce1d534705be75dd051979b74882b17ec89a5246
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills

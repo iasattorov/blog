@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Мои исследования'
       subtitle: ''
       text: |-
         Мне нравится проводить много времени с лошадьми, тем самым заодно изучая их. Если вы, такой же фанат коняшек, как и я, то можете написать мне и мы обсудим совместное времяпрепровождение.
@@ -41,7 +41,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Избранные публикации
       filters:
         folders:
           - publication
@@ -51,7 +51,7 @@ sections:
       columns: 1
   - block: collection
     content:
-      title: Recent Publications
+      title: Последние публикации
       text: ""
       filters:
         folders:
@@ -62,7 +62,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Недавние и предстоящие переговоры
       filters:
         folders:
           - event
@@ -72,7 +72,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Последние новости
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
