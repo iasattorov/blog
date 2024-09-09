@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Икромджон Сатторов 
+title: Ikromjhon Sattorov
 
 # Full name (for SEO)
-first_name: Икромджон
-last_name: Сатторов
+first_name: Ikromjhon
+last_name: Sattorov
 
 # Is this the primary user of the site?
 superuser: true
@@ -64,7 +64,7 @@ education:
   
 
 
-# Навики
+# Навыки
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
