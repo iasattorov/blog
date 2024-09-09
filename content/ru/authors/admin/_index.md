@@ -18,7 +18,7 @@ role: Студент
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: RUDN
+  - name: РУДН
     url: https://rudn.ru/
 
 # Social network links
